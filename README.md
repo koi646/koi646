@@ -1,6 +1,6 @@
 # Hi, I'm Yuhang.
 
-**Co-founder & CTO at [Spatius](https://www.spatius.ai)**
+**Co-founder & CTO at SpatialWalk, building [Spatius](https://www.spatius.ai).**
 
 We build real-time AI avatars and developer tools for bringing them into applications.
 I lead our technical direction and stay hands-on across real-time interaction,
